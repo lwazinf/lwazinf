@@ -8,6 +8,7 @@ console.log("Lwazi Ndlovu, in detail:");
 const lwazi_ = {
   fullName: "Lwazi Ndlovu",
   country: "South Africa",
+  email: "lwazinf@gmail.com",
   age: "28",
   interests: ["Music", "Indie Hacking", "Web3 Technology", 'Health Care', 'Chess'],
   values: ['Leader', 'Accountable', 'Team Player', 'Hard Worker', 'Punctual']
