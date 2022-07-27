@@ -27,4 +27,4 @@ const lwazi_ = {
 };
 ```
 
-### My favorite projects are pinned below.. 👇
+### 👇👇👇 My favorite projects are pinned below.. 👇👇👇
