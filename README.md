@@ -10,7 +10,6 @@ const lwazi_ = {
   country: "South Africa",
   email: "lwazinf@gmail.com",
   twitter: "https://twitter.com/LwaziNF",
-  age: "28",
   interests: ["Music", "Indie Hacking", "Web3 Technology", 'Health Care', 'Chess'],
   values: ['Leader', 'Accountable', 'Team Player', 'Hard Worker', 'Punctual']
   skills: ["Web Dev", "Smart Contracts", "Graphics Design", "Data Science"],
