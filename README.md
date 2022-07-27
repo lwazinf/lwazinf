@@ -11,7 +11,7 @@ const lwazi_ = {
   country: "South Africa",
   email: "lwazinf@gmail.com",
   twitter: "https://twitter.com/LwaziNF",
-  interests: ["Music", "Indie Hacking", "Web3 Technology", 'Health Care', 'Chess'],
+  interests: ["Electric Guitar", "Web3 Technology", "Chess"],
   values: ['Leader', 'Accountable', 'Team Player', 'Hard Worker', 'Punctual']
   skills: ["Web Dev", "Smart Contracts", "Graphics Design", "Data Science"],
   languages: ['Zulu', 'English', 'Spanish'],
@@ -26,3 +26,5 @@ const lwazi_ = {
   ],
 };
 ```
+
+### My favorite projects are pinned below.. 👇
