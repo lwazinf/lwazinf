@@ -1,5 +1,6 @@
-## Welcome to my GitHub profile!
+![LogoBanner_](https://pbs.twimg.com/profile_banners/1075358296960368640/1658205200/1500x500)
 
+# Welcome to my GitHub profile!
 ### Hopefully my code tells you more about me as a person than any machine language could..
 
 ```javascript
