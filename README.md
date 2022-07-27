@@ -1,16 +1,26 @@
-### Hi there 👋
+## Welcome to my GitHub profile!
 
-<!--
-**lwazinf/lwazinf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hopefully my code tells you more about me as a person than any machine language could..
 
-Here are some ideas to get you started:
+```javascript
+console.log("Lwazi Ndlovu, in detail:");
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+const lwazi_ = {
+  fullName: "Lwazi Ndlovu",
+  country: "South Africa",
+  age: "28",
+  interests: ["Music", "Indie Hacking", "Web3 Technology", 'Health Care', 'Chess'],
+  values: ['Leader', 'Accountable', 'Team Player', 'Hard Worker', 'Punctual']
+  skills: ["Web Dev", "Smart Contracts", "Graphics Design", "Data Science"],
+  languages: ['Zulu', 'English', 'Spanish'],
+  code: [
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "Python",
+    "TypeScript",
+    "Tailwind CSS",
+    "Solidity",
+  ],
+};
+```
