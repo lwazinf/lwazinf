@@ -37,11 +37,15 @@ const lwazi_ = {
 [Data Science - Lwazi Ndlovu.pdf](https://github.com/lwazinf/lwazinf/files/11396602/Artemis.-.Brown.Belt.-.Lwazi.Ndlovu.-.Printable.pdf)
 
 ### Project Links
+[ofscript.ai](https://ofscript.ai)
+#### - My second attempt at building a SAAS, this time in public - twitter.
 [WhoseInn Portal](https://portal.whoseinn.com)
-#### - Personal project, an accommodation management tool for both landlords and university students in my city.
+#### - An accommodation management tool for both landlords and university students in my city. 170+ unique visits.
 [Buy Design](https://bd.lwazinf.com)
-#### - Personal Web 3 project made for customizing designs of clothing before buying them.
+#### - A Web 3 app made for customizing designs of clothing before buying them.
 [MagicDragon](https://showroom.lwazinf.com/MagicDragon_)
-#### - A landing page mock for a CBD/Cannabis dispensary client I had.
+#### - A static landing page mock for a CBD/Cannabis dispensary client I had.
+[Quick Scan](https://qs.lwazinf.com)
+#### - A Frontend design of a payment app. This too was for a client.
 
 ### 👇👇👇 My favorite projects are pinned below.. 👇👇👇
