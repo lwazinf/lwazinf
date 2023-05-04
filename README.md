@@ -24,12 +24,14 @@ const lwazi_ = {
     "Tailwind CSS",
     "Solidity",
   ],
+  experience: [
+    "Data Science Engineer, BCX [2018]",
+    "Frontend Developer at Decent.land, Permacast App [2022 - 2023]",
+    "Second Place, Decent.land Hackathon [2022]"
+  ]
 };
 ```
-### Experience
-#### - Data Science Engineer, BCX [2018]
-#### - Second Place, Decent.land Hackathon [2022]
+### Attached Files
 ![Decent.land_](https://github.com/lwazinf/lwazinf/blob/main/hackathon_winners_1-1.png?raw=true)
-#### - Frontend Developer, Permacast App [2022 - 2023]
 
 ### 👇👇👇 My favorite projects are pinned below.. 👇👇👇
