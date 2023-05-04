@@ -24,11 +24,15 @@ const lwazi_ = {
     "Tailwind CSS",
     "Solidity",
   ],
+  frameworks: [
+    "NextJS",
+    "Flutter"
+  ]  
   experience: [
     "Data Science Bootcamp",
     "Data Science Engineer, BCX [2018]",
-    "Frontend Developer at Decent.land, Permacast App [2022 - 2023]",
-    "Second Place, Decent.land Hackathon [2022]"
+    "Frontend Developer, Decent.land [2022 - 2023]",
+    "Awarded 2nd Place, Decent.land Hackathon [2022]"
   ]
 };
 ```
@@ -39,6 +43,8 @@ const lwazi_ = {
 ### Project Links
 [ofscript.ai](https://ofscript.ai)
 #### - My second attempt at building a SAAS, this time in public - twitter.
+[Bird Tool](https://bt.lwazinf.com)
+#### - Built using the Twitter API, before Elon Musk's aquisition. A new approach to referrals.
 [WhoseInn Portal](https://portal.whoseinn.com)
 #### - An accommodation management tool for both landlords and university students in my city. 170+ unique visits.
 [Buy Design](https://bd.lwazinf.com)
@@ -47,5 +53,6 @@ const lwazi_ = {
 #### - A static landing page mock for a CBD/Cannabis dispensary client I had.
 [Quick Scan](https://qs.lwazinf.com)
 #### - A Frontend design of a payment app. This too was for a client.
-
+[Social Project](https://sp.lwazinf.com)
+#### - Social Media Frontend. This was used with data visualisation to win the Decent.land Hackathon.
 ### 👇👇👇 My favorite projects are pinned below.. 👇👇👇
