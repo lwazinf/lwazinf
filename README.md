@@ -26,5 +26,10 @@ const lwazi_ = {
   ],
 };
 ```
+### Experience
+#### - Data Science Engineer, BCX [2018]
+#### - Second Place, Decent.land Hackathon [2022]
+![Decent.land_](https://github.com/lwazinf/lwazinf/blob/main/hackathon_winners_1-1.png?raw=true)
+#### - Frontend Developer, Permacast App [2022 - 2023]
 
 ### 👇👇👇 My favorite projects are pinned below.. 👇👇👇
