@@ -1,4 +1,4 @@
-![LogoBanner_](https://github.com/lwazinf/lwazinf/blob/main/portfolio.jpg?raw=true)
+![LogoBanner_](https://github.com/lwazinf/lwazinf/blob/main/imageedit_2_7067580932.jpg?raw=true)
 
 # Welcome to my GitHub profile!
 ### Hopefully my code tells you more about me as a person than any machine language could..
