@@ -41,6 +41,8 @@ const lwazi_ = {
 [Data Science - Lwazi Ndlovu.pdf](https://github.com/lwazinf/lwazinf/files/11396602/Artemis.-.Brown.Belt.-.Lwazi.Ndlovu.-.Printable.pdf)
 
 ### Project Links
+##### [Disclaimer] Due to deprecated packages, some projects may not function as intended.
+
 [ofscript.ai](https://ofscript.ai)
 #### - My second attempt at building a SAAS, this time in public - twitter.
 [Bird Tool](https://bt.lwazinf.com)
