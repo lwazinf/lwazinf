@@ -1,7 +1,5 @@
 ![LogoBanner_](https://github.com/lwazinf/lwazinf/blob/main/imageedit_2_7067580932.jpg?raw=true)
 
-[![Demo CountPages alpha](https://share.gifyoutube.com/KzB6Gb.gif)](https://www.youtube.com/watch?v=ek1j272iAmc)
-
 # Welcome to my GitHub profile!
 ### Hopefully my code tells you more about me as a person than any machine language could..
 
